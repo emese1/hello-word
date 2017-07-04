@@ -1,4 +1,4 @@
 # hello-word
 Containing a short application
-emese denes
+Emese Denes is here.
 There are changes on the main page.
